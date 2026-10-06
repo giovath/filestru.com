@@ -53,7 +53,7 @@ const translations = {
     privacyEyebrow: "Local-first",
     privacyTitle: "Your files stay on your computer.",
     privacyDescription:
-      "FileStru is designed to organize files locally. There is no account required and the core organization process does not depend on a cloud service.",
+      "FileStru organizes your files locally. Your file contents and folder paths are never uploaded. No account is required, and the core organization process does not depend on a cloud service.",
 
     featuresEyebrow: "Built to stay simple",
     featuresTitle: "Useful without getting in your way.",
@@ -62,7 +62,7 @@ const translations = {
     featureTwo: "Local-first",
     featureThree: "Preview before changes",
     featureFour: "No account",
-    featureFive: "Open development",
+    featureFive: "Public on GitHub",
 
     ctaEyebrow: "Ready to start?",
     ctaTitle: "Put your files in order.",
@@ -113,7 +113,8 @@ const translations = {
       "Confirme o plano e deixe o FileStru executar as alterações.",
 
     structureEyebrow: "Copie a estrutura",
-    structureTitle: "Veja exatamente como suas pastas estão organizadas.",
+    structureTitle:
+      "Veja exatamente como suas pastas estão organizadas.",
     structureDescription:
       "Copie a estrutura completa de uma pasta para a área de transferência, incluindo os nomes e a hierarquia das pastas. Útil para documentar, revisar ou compartilhar o que existe dentro dela.",
 
@@ -125,7 +126,7 @@ const translations = {
     privacyEyebrow: "Local-first",
     privacyTitle: "Seus arquivos permanecem no seu computador.",
     privacyDescription:
-      "O FileStru foi desenvolvido para organizar arquivos localmente. Não é necessário criar uma conta e o processo principal de organização não depende de um serviço na nuvem.",
+      "O FileStru organiza seus arquivos localmente. O conteúdo dos seus arquivos e os caminhos das suas pastas nunca são enviados. Não é necessário criar uma conta, e o processo principal de organização não depende de um serviço na nuvem.",
 
     featuresEyebrow: "Feito para continuar simples",
     featuresTitle: "Útil sem ficar no seu caminho.",
@@ -134,7 +135,7 @@ const translations = {
     featureTwo: "Local-first",
     featureThree: "Prévia antes das alterações",
     featureFour: "Sem conta",
-    featureFive: "Desenvolvimento aberto",
+    featureFive: "Público no GitHub",
 
     ctaEyebrow: "Pronto para começar?",
     ctaTitle: "Coloque seus arquivos em ordem.",
